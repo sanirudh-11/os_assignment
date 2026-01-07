@@ -82,6 +82,7 @@ Each process is assigned a priority (usually a numerical value). The CPU is allo
 │   └── pages/       # Main views (MemoryAllocation.tsx, Scheduling.tsx)
 ├── public/          # Assets and static files
 └── vite.config.ts   # Build configuration
+```
 
 ## 📸 Screenshots
 <img width="1909" height="1079" alt="image" src="https://github.com/user-attachments/assets/80843871-4071-4cb2-8695-d71901becec6" />
